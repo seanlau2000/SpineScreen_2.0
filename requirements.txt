@@ -1,0 +1,12 @@
+transformers
+torch
+numpy
+pandas
+scikit-learn
+accelerate
+optuna
+msoffcrypto-tool
+openpyxl
+scipy
+matplotlib
+
